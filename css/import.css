@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+/* ================================*/
+/* 			                     		   */
+/* 	(C) CartDcom import CSS		 */
+/* 	last update  2009-01-07*/
+/* 				                    		 */
+/* ==============================  */
+/* 
+
+
+
+
+/* Import----------------------------------------------- */
+
+@import url("olivecart_item.css");
+@import url("olivecart_cart.css");
+@import url("olivecart_tag.css");
+@import url("olivecart_common.css");

@@ -1,0 +1,89 @@
+@charset "utf-8";
+
+/* 共通部分
+----------------------------------------------- */
+.cartinfo{
+	border-spacing:0;
+	width:100%;
+	clear:both;
+	margin:0 0 20px 0;
+}
+
+.cartinfo *{word-wrap:break-word;}
+.cartinfo th{
+	padding:5px;
+	text-align:left;
+	font-size: 14px;
+	font-weight: normal;
+	}
+.cartinfo td{
+	padding:5px;
+	text-align:left;
+	vertical-align: middle;
+	}
+	
+input.cartinputitem01{
+	margin:0 10px 0 0;
+	width:150px;
+	}
+input.cartinputitem02{
+	margin:0 10px 0 5px;
+	width:120px;
+}
+textarea.cartinputitem03{
+	width:100%;
+	height: 50px;
+	}
+		
+.cartinputitem04{
+	width:100%;
+}	
+/* 最終確認画面 */
+.endtaginputitem{
+	width:100%;
+	height: 300px;
+}
+/* 自動返信メール設定 */
+.subject{
+	width:100%;
+}
+.sendinputitem{
+	width:100%;
+	height: 500px;
+}
+
+
+/* 決済方法の設定 */
+.cartpostage{
+	border-spacing:0;
+	width:100%;
+	clear:both;
+	margin:0;
+}
+
+.cartpostage th{
+	padding:5px 7px;
+	text-align:left;
+	font-size: 14px;
+	font-weight: normal;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	}
+.cartpostage td{
+	padding:5px 7px;
+	text-align:left;
+	vertical-align: middle;
+	}	
+.postage01{
+	margin:0 10px 0 10px;
+	width:80px;
+}
+
+.cartpostagetotal{
+	padding:0;
+	width:50%;
+	}	
+.postage02{
+	margin:0 10px 0 0;
+	width:120px;
+}

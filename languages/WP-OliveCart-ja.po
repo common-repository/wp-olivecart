@@ -1,0 +1,1547 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-OliveCart\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-08 15:07+0900\n"
+"PO-Revision-Date: 2019-03-08 15:07+0900\n"
+"Last-Translator: \n"
+"Language-Team: OliveDesign\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../cart/class-cart-button.php:10
+msgid "Cart Preview"
+msgstr "カートの内容"
+
+#: ../cart/class-cart-get-title.php:19 ../cart/class-cart-get-title.php:29
+#: ../cart/class-cart-step4.php:35
+msgid "Review your order"
+msgstr "ショッピングカートの内容"
+
+#: ../cart/class-cart-get-title.php:21
+msgid "Please enter your contact details"
+msgstr "お客様情報・お届け先・その他の入力"
+
+#: ../cart/class-cart-get-title.php:23
+msgid "Payment Options & Fees"
+msgstr "支払い方法・オプション"
+
+#: ../cart/class-cart-get-title.php:25
+msgid "Final Review"
+msgstr "最終確認画面"
+
+#: ../cart/class-cart-get-title.php:27
+msgid "Thank you for your order"
+msgstr "ご注文内容の送信"
+
+#: ../cart/class-cart-preview.php:42 ../lib/class-cart-add-meta-table.php:227
+msgid "Price"
+msgstr "価格"
+
+#: ../cart/class-cart-preview.php:43 ../cart/class-cart-widget.php:14
+#: ../lib/class-cart-insert-button.php:86
+msgid "Quantity"
+msgstr "数量"
+
+#: ../cart/class-cart-preview.php:44
+msgid "Subtotal"
+msgstr "小計"
+
+#: ../cart/class-cart-preview.php:56 ../cart/class-cart-preview.php:67
+msgid ":charge commission"
+msgstr "手数料"
+
+#: ../cart/class-cart-preview.php:80
+msgid "Postage "
+msgstr "送料"
+
+#: ../cart/class-cart-preview.php:92
+msgid "Consumption Tax"
+msgstr "消費税"
+
+#: ../cart/class-cart-preview.php:99 ../cart/class-cart-preview.php:106
+#: ../cart/class-cart-widget.php:34
+msgid "Total"
+msgstr "合計"
+
+#: ../cart/class-cart-preview.php:107 ../cart/class-cart-widget.php:42
+msgid "Your Shopping Cart is Empty"
+msgstr "カートが空です。"
+
+#: ../cart/class-cart-step1.php:18
+msgid "Update"
+msgstr "更新する"
+
+#: ../cart/class-cart-step1.php:19
+msgid "Empty your cart"
+msgstr "カートを空にする"
+
+#: ../cart/class-cart-step1.php:20 ../cart/class-cart-widget.php:37
+msgid "Go to Checkout"
+msgstr "注文する"
+
+#: ../cart/class-cart-step1.php:21
+msgid "Back to Shopping"
+msgstr "お買い物に戻る"
+
+#: ../cart/class-cart-step2.php:48
+msgid "Contact address"
+msgstr "お客様情報"
+
+#: ../cart/class-cart-step2.php:52
+msgid "Error Required field is missing "
+msgstr "エラー：正しく入力されていない項目があります。"
+
+#: ../cart/class-cart-step2.php:56 ../cart/class-cart-step4.php:39
+msgid "First Name"
+msgstr "お名前"
+
+#: ../cart/class-cart-step2.php:60 ../cart/class-cart-step2.php:147
+msgid "Missing First Name field. Please correct and try again."
+msgstr "お名前を正しく入力してください。"
+
+#: ../cart/class-cart-step2.php:64 ../cart/class-cart-step4.php:41
+msgid "Last Name"
+msgstr "かな"
+
+#: ../cart/class-cart-step2.php:68
+msgid "Missing Last Name field. Please correct and try again."
+msgstr "ふりがなを入力してください。"
+
+#: ../cart/class-cart-step2.php:72 ../cart/class-cart-step2.php:151
+#: ../cart/class-cart-step4.php:43 ../cart/class-cart-step4.php:58
+msgid "Postal Code"
+msgstr "郵便番号"
+
+#: ../cart/class-cart-step2.php:78 ../cart/class-cart-step2.php:155
+msgid "Missing Postal Code. Please correct and try again."
+msgstr "郵便番号を入力してください。"
+
+#: ../cart/class-cart-step2.php:82 ../cart/class-cart-step2.php:159
+msgid "Prefecture"
+msgstr "都道府県"
+
+#: ../cart/class-cart-step2.php:99 ../cart/class-cart-step2.php:172
+msgid "Missing prefecture. Please correct and try again."
+msgstr "都道府県が選択されていません。　"
+
+#: ../cart/class-cart-step2.php:104 ../cart/class-cart-step2.php:176
+#: ../cart/class-cart-step4.php:45 ../cart/class-cart-step4.php:59
+msgid "Address"
+msgstr "住所"
+
+#: ../cart/class-cart-step2.php:108 ../cart/class-cart-step2.php:180
+msgid "Missing Address. Please correct and try again."
+msgstr "住所が入力されていません。"
+
+#: ../cart/class-cart-step2.php:112 ../cart/class-cart-step2.php:184
+#: ../cart/class-cart-step4.php:47 ../cart/class-cart-step4.php:61
+msgid "Phone"
+msgstr "電話番号"
+
+#: ../cart/class-cart-step2.php:116 ../cart/class-cart-step2.php:188
+msgid "Missing phone number. Please correct and try again."
+msgstr "電話番号を入力してください。"
+
+#: ../cart/class-cart-step2.php:120 ../cart/class-cart-step4.php:49
+msgid "Email"
+msgstr "メールアドレス"
+
+#: ../cart/class-cart-step2.php:124
+msgid "Missing email address. Please correct and try again."
+msgstr "メールアドレスを正しく入力してください。"
+
+#: ../cart/class-cart-step2.php:128
+msgid "Confirm Email"
+msgstr "メールアドレス"
+
+#: ../cart/class-cart-step2.php:129
+msgid "(Check Emailaddress)"
+msgstr "（確認のためもう一度）"
+
+#: ../cart/class-cart-step2.php:132
+msgid "Missing confirm email. Please correct and try again."
+msgstr "確認用メールアドレスを正しく入力してください。"
+
+#: ../cart/class-cart-step2.php:138
+msgid "Shipping address"
+msgstr "お届け先"
+
+#: ../cart/class-cart-step2.php:143 ../cart/class-cart-step4.php:57
+msgid "Name"
+msgstr "お名前"
+
+#: ../cart/class-cart-step2.php:144
+msgid "Shipping address and billing address are different"
+msgstr "お届け先が別の場合は入力してください。"
+
+#: ../cart/class-cart-step2.php:197 ../cart/class-cart-step3.php:98
+#: ../cart/class-cart-step4.php:104
+msgid "Back"
+msgstr "前の画面へ"
+
+#: ../cart/class-cart-step2.php:199 ../cart/class-cart-step3.php:99
+msgid "Continue"
+msgstr "次の画面へ"
+
+#: ../cart/class-cart-step3.php:48 ../cart/class-cart-step4.php:65
+msgid "Payment Method"
+msgstr "支払い方法の選択"
+
+#: ../cart/class-cart-step3.php:92 ../cart/class-cart-step4.php:73
+msgid "Comment Message"
+msgstr "ご意見・ご要望"
+
+#: ../cart/class-cart-step4.php:38
+msgid "Contact details:"
+msgstr "購入者情報"
+
+#: ../cart/class-cart-step4.php:52
+msgid "Shipping details:"
+msgstr "送り先情報"
+
+#: ../cart/class-cart-step4.php:54
+msgid "Billing address is same as shipping address"
+msgstr "お客様住所にお届け"
+
+#: ../cart/class-cart-step4.php:75
+msgid ""
+"This is your final review. Please check all information carefully. If "
+"everything is correct, click \"submit order\"."
+msgstr "この内容でよろしければ”注文する”ボタンをクリックしてください。"
+
+#: ../cart/class-cart-step4.php:105
+msgid "Submit Order"
+msgstr "注文する"
+
+#: ../cart/class-cart-step5.php:45
+msgid "Order Number"
+msgstr "注文番号"
+
+#: ../cart/class-cart-widget.php:13
+msgid "Items"
+msgstr "商品名"
+
+#: ../include/cart-admin-setting.php:57
+msgid "Shopping Cart Setup"
+msgstr "ショッピングカートのセットアップ"
+
+#: ../include/cart-admin-setting.php:58
+msgid "Settlement Method"
+msgstr "決済方法"
+
+#: ../include/cart-admin-setting.php:58
+msgid "Settlement"
+msgstr "決済方法設定"
+
+#: ../include/cart-admin-setting.php:59
+msgid "Othre Items"
+msgstr "その他の項目設定"
+
+#: ../include/cart-admin-setting.php:60
+msgid "Cart End Message"
+msgstr "最終画面"
+
+#: ../include/cart-admin-setting.php:61
+msgid "Cart Auto Reply Email"
+msgstr "自動返信メール"
+
+#: ../include/cart-admin-setting.php:62 ../include/class-cart-options.php:50
+msgid "Cart Options"
+msgstr "一般設定"
+
+#: ../include/cart-admin-setting.php:63
+msgid "Items "
+msgstr "商品管理"
+
+#: ../include/cart-admin-setting.php:73
+msgid "Postage"
+msgstr "送料設定"
+
+#: ../include/class-cart-auto-email.php:14 ../include/class-cart-chages.php:14
+#: ../include/class-cart-end-message.php:14
+#: ../include/class-cart-options.php:14 ../include/class-cart-settlement.php:14
+msgid "help"
+msgstr "ヘルプ"
+
+#: ../include/class-cart-auto-email.php:22
+msgid "Auto Reply Email Reset"
+msgstr "自動返信メールのリセット"
+
+#: ../include/class-cart-auto-email.php:24
+msgid "Subject"
+msgstr "件名"
+
+#: ../include/class-cart-auto-email.php:26
+msgid "Contents"
+msgstr "内容"
+
+#: ../include/class-cart-auto-email.php:33
+#: ../lib/admin/settlement-method.php:14
+msgid "Auto Reply Email Setup"
+msgstr "自動返信メール設定"
+
+#: ../include/class-cart-auto-email.php:49
+#: ../include/class-cart-auto-email.php:64
+#: ../include/class-cart-auto-email.php:78
+msgid "Mail data updated"
+msgstr "メールの内容が更新されました。"
+
+#: ../include/class-cart-auto-email.php:52
+#: ../include/class-cart-auto-email.php:67
+msgid "Error:OrderList Tag Error"
+msgstr "エラー：OrderListのタグは削除できません。"
+
+#: ../include/class-cart-auto-email.php:81
+msgid "Error:Password Tag Error"
+msgstr "エラー：Passwordのタグは削除できません。"
+
+#: ../include/class-cart-auto-email.php:104
+#: ../include/class-cart-auto-email.php:109
+#: ../include/class-cart-auto-email.php:114
+msgid "Mail data reseted"
+msgstr "メールデータがリセットされました。"
+
+#: ../include/class-cart-auto-email.php:122 ../include/class-cart-chages.php:61
+#: ../include/class-cart-end-message.php:61
+#: ../include/class-cart-options.php:54 ../include/class-cart-postage.php:53
+#: ../include/class-cart-settlement.php:65 ../lib/admin/on-sidebox.php:6
+msgid "Save"
+msgstr "保存"
+
+#: ../include/class-cart-auto-email.php:133
+msgid "Reset your Email Contents"
+msgstr "自動返信メールのリセット"
+
+#: ../include/class-cart-auto-email.php:133
+msgid "Reset your mail data"
+msgstr "メールの内容を初期状態に戻します。"
+
+#: ../include/class-cart-chages.php:22
+msgid "Other Items No1"
+msgstr "その他の項目(1)"
+
+#: ../include/class-cart-chages.php:24
+msgid "Other Items No2"
+msgstr "その他の項目(2)"
+
+#: ../include/class-cart-chages.php:26
+msgid "Other Items No3"
+msgstr "その他の項目(3)"
+
+#: ../include/class-cart-chages.php:45
+msgid "Othre Items and Charges data updated"
+msgstr "その他の項目と手数料設定が更新されました。"
+
+#: ../include/class-cart-chages.php:50
+msgid "Othre Items and Charges Setup"
+msgstr "その他の項目と手数料設定"
+
+#: ../include/class-cart-end-message.php:22
+msgid "Custom Message (HTML Tags)"
+msgstr "最終ページタグ"
+
+#: ../include/class-cart-end-message.php:34
+msgid "Custom messages on cart end page updated"
+msgstr "最終画面設定が更新されました。"
+
+#: ../include/class-cart-end-message.php:39
+msgid "Edit custom messages on cart end page"
+msgstr "最終画面設定"
+
+#: ../include/class-cart-end-message.php:44
+msgid "The template has been imported."
+msgstr "テンプレートタグが読み込まれました。"
+
+#: ../include/class-cart-help.php:5
+msgid ""
+"Thank you for using our Shopping system. For more information,please visit "
+"the WP-OliveCart website."
+msgstr ""
+"WP-OliveCartのご利用ありがとうございます。ヘルプについて詳しくは<a href="
+"\"http://www.wp-olivecart.com/\">ホームページ</a>をご覧ください。"
+
+#: ../include/class-cart-items.php:5 ../lib/class-cart-add-meta-table.php:11
+msgid "Item Title"
+msgstr "商品名"
+
+#: ../include/class-cart-items.php:6 ../lib/class-cart-add-meta-table.php:12
+msgid "Item Number"
+msgstr "商品番号"
+
+#: ../include/class-cart-items.php:7 ../include/class-cart-taxonomy.php:20
+msgid "Thumbnail"
+msgstr "アイキャッチ"
+
+#: ../include/class-cart-items.php:8 ../include/class-cart-taxonomy.php:23
+msgid "Date"
+msgstr "日時"
+
+#: ../include/class-cart-items.php:30 ../include/class-cart-taxonomy.php:38
+msgid "None"
+msgstr "なし"
+
+#: ../include/class-cart-options.php:23
+msgid "Add to Cart Button Option"
+msgstr "カートに入れるボタンの設定"
+
+#: ../include/class-cart-options.php:26
+msgid "Mail Setup"
+msgstr "メールの設定"
+
+#: ../include/class-cart-options.php:48
+msgid "Cart Options Updated"
+msgstr "カートの一般設定が更新されました。"
+
+#: ../include/class-cart-options.php:78
+msgid "Button Position"
+msgstr "ボタンの位置"
+
+#: ../include/class-cart-options.php:80
+msgid "left"
+msgstr "左"
+
+#: ../include/class-cart-options.php:81
+msgid "right"
+msgstr "右"
+
+#: ../include/class-cart-options.php:82
+msgid "center"
+msgstr "中央"
+
+#: ../include/class-cart-options.php:84
+msgid "Other Options Title"
+msgstr "商品オプションのタイトル"
+
+#: ../include/class-cart-options.php:96
+msgid "SendMail Address"
+msgstr "注文メール送信先メールアドレス"
+
+#: ../include/class-cart-options.php:99
+msgid "Edit shop mail contents"
+msgstr "ショップの注文メールの編集"
+
+#: ../include/class-cart-postage.php:15
+msgid "help2"
+msgstr "ヘルプ"
+
+#: ../include/class-cart-postage.php:23
+msgid "Total Postage Setup"
+msgstr "お買い上げ合計金額別設定 "
+
+#: ../include/class-cart-postage.php:39
+msgid "Postage data updated"
+msgstr "送料データが更新されました。 "
+
+#: ../include/class-cart-postage.php:42
+msgid "Postage Setup"
+msgstr "送料設定"
+
+#: ../include/class-cart-postage.php:66
+msgid "Total:"
+msgstr "合計："
+
+#: ../include/class-cart-postage.php:67
+msgid "Over   Postage:"
+msgstr "以上　　送料 "
+
+#: ../include/class-cart-postage.php:68
+msgid "JPY"
+msgstr "円"
+
+#: ../include/class-cart-settlement.php:22
+msgid "Settlement Method No1"
+msgstr "決済方法(1)"
+
+#: ../include/class-cart-settlement.php:24
+msgid "Settlement Method No2"
+msgstr "決済方法(2)"
+
+#: ../include/class-cart-settlement.php:26
+msgid "Settlement Method No3"
+msgstr "決済方法(3)"
+
+#: ../include/class-cart-settlement.php:49
+msgid "Settlement Method Setup data updated"
+msgstr "決済方法設定が更新されました。"
+
+#: ../include/class-cart-settlement.php:54
+msgid "Settlement Method Setup"
+msgstr "決済方法設定"
+
+#: ../include/class-cart-taxonomy.php:19 ../include/class-cart-taxonomy.php:72
+msgid "Item Category"
+msgstr "商品カテゴリー"
+
+#: ../include/class-cart-taxonomy.php:42
+msgid "Items Page List"
+msgstr "商品ページ一覧"
+
+#: ../include/class-cart-taxonomy.php:43
+msgid "Items List"
+msgstr "商品一覧"
+
+#: ../include/class-cart-taxonomy.php:44
+msgid "Add new"
+msgstr "新規追加"
+
+#: ../include/class-cart-taxonomy.php:45 ../include/class-cart-taxonomy.php:47
+msgid "Add new item"
+msgstr "新規商品ページ追加"
+
+#: ../include/class-cart-taxonomy.php:46
+msgid "Edit item"
+msgstr "商品ページを編集する"
+
+#: ../include/class-cart-taxonomy.php:48
+msgid "View item"
+msgstr "商品ページの表示"
+
+#: ../include/class-cart-taxonomy.php:49
+msgid "Search items"
+msgstr "検索"
+
+#: ../include/class-cart-taxonomy.php:50
+msgid "Not found"
+msgstr "見つかりません。"
+
+#: ../include/class-cart-taxonomy.php:51
+msgid "Not found in trash"
+msgstr "ゴミ箱に商品はありません"
+
+#: ../include/class-cart-taxonomy.php:109
+msgid "Missing item title. Please correct and try again"
+msgstr "商品名を入力してください。"
+
+#: ../include/class-cart-taxonomy.php:116
+msgid "Missing item number. Please correct and try again"
+msgstr "商品番号を入力してください。"
+
+#: ../include/class-cart-taxonomy.php:123
+msgid "Missing item stock. Please correct and try again"
+msgstr "在庫数を半角数字で入力してください。"
+
+#: ../include/class-cart-taxonomy.php:130
+msgid "Missing item price. Please correct and try again"
+msgstr "商品の価格を入力してください。　"
+
+#: ../lib/admin/button.php:8 ../lib/admin/charges.php:8
+#: ../lib/admin/settlement-method.php:8
+msgid "Title"
+msgstr "名称"
+
+#: ../lib/admin/button.php:16 ../lib/admin/charges.php:16
+msgid "Form Select Message"
+msgstr "フォーム選択内容"
+
+#: ../lib/admin/button.php:21
+msgid " A comma (,) is used as a separator between data items.(example: S,M,L)"
+msgstr ""
+"フォームの内容を設定する場合は、各項目にカンマ「,」をいれてください。 例サイ"
+"ズ)S、M、L で設定する場合、「S,M,L」"
+
+#: ../lib/admin/charges.php:21
+msgid ""
+" A comma (,) is used as a separator between data items.(example: yes,no)"
+msgstr ""
+"フォームの内容を設定する場合は、各項目にカンマ「,」をいれてください。 例)使用"
+"しない、使用する で設定する場合、「使用しない,使用する」"
+
+#: ../lib/admin/charges.php:26
+msgid "Charge Setup"
+msgstr "手数料設定"
+
+#: ../lib/admin/charges.php:31
+msgid ""
+"A comma (,) is used as a separator between charge setup.(example: yes=300 "
+"no=0 300,0)"
+msgstr ""
+"手数料を設定する場合、上のフォームにフォーム選択内容に合わせて半角数字でカン"
+"マ「,」をいれて設定してください。設定しない場合空白にしてください。<br />例)"
+"使用しない＝0円　使用する=300円 で設定する場合、0,300 "
+
+#: ../lib/admin/charges.php:36 ../lib/admin/settlement-method.php:21
+msgid "Comment"
+msgstr "コメント"
+
+#: ../lib/admin/settlement-method.php:13
+msgid "End Message Setup"
+msgstr "最終画面編集"
+
+#: ../lib/class-cart-activation.php:56
+msgid "Your-Shopping-Cart items"
+msgstr ""
+"このページにショッピングカートの内容が表示されます。<br/>このページを削除する"
+"とショッピングカートが動作しません。"
+
+#: ../lib/class-cart-add-meta-table.php:13
+msgid "Item Option Stock Price"
+msgstr "商品オプション・在庫数・価格"
+
+#: ../lib/class-cart-add-meta-table.php:43
+msgid "Example: Nifty blogging software"
+msgstr "例：すばらしいブログソフトウェア"
+
+#: ../lib/class-cart-add-meta-table.php:52
+msgid "Example: <code>ab-123432-3334</code>"
+msgstr "任意の商品ID 例: ABCD0002-2222 英数字のみ。"
+
+#: ../lib/class-cart-add-meta-table.php:60
+msgid "Option"
+msgstr "商品オプション"
+
+#: ../lib/class-cart-add-meta-table.php:147
+msgid "Add to ItemsOption"
+msgstr "商品オプションが入力されていません。"
+
+#: ../lib/class-cart-add-meta-table.php:226
+msgid "Stock"
+msgstr "在庫数"
+
+#: ../lib/class-cart-add-meta-table.php:247
+msgid "Add"
+msgstr "追加"
+
+#: ../lib/class-cart-add-meta-table.php:248
+msgid "Delete"
+msgstr "削除"
+
+#: ../lib/class-cart-add-meta-table.php:249
+msgid "Change Options Title"
+msgstr "商品オプションのタイトルの変更"
+
+#: ../lib/class-cart-add-meta-table.php:250
+msgid "Unrestricted stock value:<code>*</code>"
+msgstr "在庫数が無制限の場合、在庫数に*を入力してください。"
+
+#: ../lib/class-cart-add-meta-table.php:251
+msgid "If the price is free:<code>-</code>"
+msgstr "価格が無料の場合、価格に-を入力してください。"
+
+#: ../lib/class-cart-category-widget.php:7
+msgid "Item Categories List"
+msgstr "WP-OliveCartに登録してある商品カテゴリーのリストの表示"
+
+#: ../lib/class-cart-category-widget.php:8
+msgid "Item Categories"
+msgstr "商品カテゴリー"
+
+#: ../lib/class-cart-category-widget.php:36
+#: ../lib/class-cart-preview-widget.php:35
+msgid "Title:"
+msgstr "タイトル"
+
+#: ../lib/class-cart-insert-button.php:69
+#: ../lib/class-cart-insert-button.php:88
+#: ../lib/class-cart-insert-button.php:106
+msgid "Select"
+msgstr "選択"
+
+#: ../lib/class-cart-insert-button.php:129
+msgid "Add to Cart"
+msgstr "カートに入れる"
+
+#: ../lib/class-cart-insert-button.php:136
+msgid "SOLD OUT"
+msgstr "売り切れました。"
+
+#: ../lib/class-cart-preview-widget.php:6
+msgid "Shopping Cart Preview"
+msgstr "WP-Olive Cart ショッピングカートの表示"
+
+#: ../lib/class-cart-preview-widget.php:7
+msgid "WP-OliveCart Preview"
+msgstr "ショッピングカート"
+
+#: ../lib/class-cart-preview-widget.php:38
+msgid "Show Shopping Cart Items"
+msgstr "ショッピングカートの内容を表示"
+
+#~ msgid "Item"
+#~ msgstr "商品管理"
+
+#~ msgid "Consumption tax Setup"
+#~ msgstr "消費税の設定"
+
+#~ msgid "Your-Shopping-Cart"
+#~ msgstr "ショッピングカートの内容"
+
+#~ msgid "Android Phone Theme Setup"
+#~ msgstr "Android スマートフォンの外観テーマの選択"
+
+#~ msgid "SSL Domain URL Setup"
+#~ msgstr "SSLカートURLの設定"
+
+#~ msgid "Example: https://www.cart-ya.com"
+#~ msgstr ""
+#~ "SSLセキュアサーバー使用する場合のURL設定します。</br>例）https://www.cart-"
+#~ "ya.com (使用しない場合空白にします。)"
+
+#~ msgid "Forgot your password?"
+#~ msgstr "パスワードを忘れた場合"
+
+#~ msgid "Inquiry Form"
+#~ msgstr "お問い合わせフォーム"
+
+#~ msgid "Over   Charge:"
+#~ msgstr "以上　　手数料"
+
+#~ msgid "Charge"
+#~ msgstr "手数料"
+
+#~ msgid "Name of apartment"
+#~ msgstr "（建物名、アパート名）"
+
+#~ msgid "(Example: 000-000-000)"
+#~ msgstr "（例：000-000-000）"
+
+#~ msgid "Shipping address click here"
+#~ msgstr "お届け先が別の場合こちら"
+
+#~ msgid "Quantity Button Option"
+#~ msgstr "個数ボタンの表示"
+
+#~ msgid "Insert Add to Cart button"
+#~ msgstr "カートに入れるボタンの挿入"
+
+#~ msgid "Cart Button Option Updated"
+#~ msgstr "カートに入れるボタンの設定が更新されました。"
+
+#~ msgid "Show"
+#~ msgstr "表示する"
+
+#~ msgid "Hide"
+#~ msgstr "表示しない"
+
+#~ msgid "Auto"
+#~ msgstr "自動"
+
+#~ msgid "Manual"
+#~ msgstr "手動"
+
+#~ msgid "Cart button"
+#~ msgstr "カートボタン"
+
+#~ msgid "Add to Cart button"
+#~ msgstr "カートに入れるボタン"
+
+#~ msgid "items"
+#~ msgstr "件"
+
+#~ msgid "total items"
+#~ msgstr "件中"
+
+#~ msgid "preview"
+#~ msgstr "表示"
+
+#~ msgid "-Search result"
+#~ msgstr "の検索結果"
+
+#~ msgid "Search"
+#~ msgstr "検索"
+
+#~ msgid "GoodsName"
+#~ msgstr "商品名"
+
+#~ msgid "GoodsNumber"
+#~ msgstr "商品番号"
+
+#~ msgid "Insert Button"
+#~ msgstr "カートボタン"
+
+#~ msgid "Olive Cart MyPage Login"
+#~ msgstr "WP-OliveCartのマイページ ログイン"
+
+#~ msgid "MyPage Login"
+#~ msgstr "会員ログイン"
+
+#~ msgid "show input filed"
+#~ msgstr "入力フォームの表示"
+
+#~ msgid "Olive Cart Mini Cart"
+#~ msgstr "ショッピングカート"
+
+#~ msgid "use ajax"
+#~ msgstr "Ajaxを使用する"
+
+#~ msgid "Your Billing/Shipping details"
+#~ msgstr "お客様住所とお届け先"
+
+#~ msgid "Error"
+#~ msgstr "送信エラー"
+
+#~ msgid "Sorry  Database Update Error."
+#~ msgstr ""
+#~ "<p>申し訳ありません。在庫ロックがかかってしまいました。</p><p>お手数です"
+#~ "が、もう一度ご購入ください。</p>"
+
+#~ msgid "Total:￥"
+#~ msgstr "合計：￥"
+
+#~ msgid "Checkout"
+#~ msgstr "変更・確認する"
+
+#~ msgid "Cart is Empty"
+#~ msgstr "カートが空です。"
+
+#~ msgid "I'm A New Customer"
+#~ msgstr "初めてお買物される方"
+
+#~ msgid "Register an account"
+#~ msgstr "会員登録をする"
+
+#~ msgid "Checkout as a guest"
+#~ msgstr "会員登録をせずに購入する"
+
+#~ msgid "I'm A Returning Customer"
+#~ msgstr "会員登録されている方"
+
+#~ msgid "Error:The email address you entered is not valid, please try again."
+#~ msgstr "エラー：メールアドレスが登録されていません。"
+
+#~ msgid "Error:The password you entered is not valid, please try again."
+#~ msgstr "エラー：パスワードが入力されていません。"
+
+#~ msgid "Error: The Email Address or Password is not registered."
+#~ msgstr "エラー：メールアドレス、パスワードが登録されていません。"
+
+#~ msgid "Email Address"
+#~ msgstr "メールアドレス"
+
+#~ msgid "Password"
+#~ msgstr "パスワード"
+
+#~ msgid "Login"
+#~ msgstr "ログインする"
+
+#~ msgid "Forgot your password? Click here"
+#~ msgstr "パスワードを忘れた場合"
+
+#~ msgid "E-mail address is already registered."
+#~ msgstr "メールアドレスが既に登録されています。"
+
+#~ msgid "(4 English words under 8 letters.)"
+#~ msgstr "（英数字４文字以上８文字以内）"
+
+#~ msgid "Missing password. Please correct and try again."
+#~ msgstr "パスワードを正しく入力してください。"
+
+#~ msgid "Confirm Password"
+#~ msgstr "パスワード"
+
+#~ msgid "(Check password)"
+#~ msgstr "（確認のためもう一度）"
+
+#~ msgid "Missing confirm password. Please correct and try again."
+#~ msgstr "確認用パスワードを正しく入力してください。"
+
+#~ msgid "Member registration"
+#~ msgstr "会員登録"
+
+#~ msgid "Same as shipping address"
+#~ msgstr "お客様の住所に送る"
+
+#~ msgid "Change your contact details"
+#~ msgstr "お客様住所の変更"
+
+#~ msgid "Missing Name field. Please correct and try again."
+#~ msgstr "お名前を入力してください。"
+
+#~ msgid "Please send it to this address"
+#~ msgstr "この住所に送る"
+
+#~ msgid "Other Items No4"
+#~ msgstr "その他の項目(4)"
+
+#~ msgid "Create the \"Pay with PayPal\" button"
+#~ msgstr "テンプレート設定"
+
+#~ msgid "KURONEKO WEBCOLLECT"
+#~ msgstr "クロネコウェブコレクト"
+
+#~ msgid "RAKUTEN LITE"
+#~ msgstr "楽天ＩＤ決済 LITE "
+
+#~ msgid "Get template"
+#~ msgstr "テンプレートタグを読み込む"
+
+#~ msgid "Cart Security Setup"
+#~ msgstr "カートのセキュリティの設定"
+
+#~ msgid "iPhone Theme Setup"
+#~ msgstr "iPhoneの外観テーマの選択"
+
+#~ msgid "iPad Theme Setup"
+#~ msgstr "iPadの外観テーマの選択"
+
+#~ msgid "Member Rogin Setup"
+#~ msgstr "会員ショップサイト"
+
+#~ msgid "ALL Preview"
+#~ msgstr "すべてに表示"
+
+#~ msgid "Members Only"
+#~ msgstr "会員のみ表示"
+
+#~ msgid "No Registration Members"
+#~ msgstr "会員登録なし"
+
+#~ msgid "Export"
+#~ msgstr "エクスポート"
+
+#~ msgid "Pref Postage Setup"
+#~ msgstr "都道府県別設定"
+
+#~ msgid "Settlement Method No4"
+#~ msgstr "決済方法(4)"
+
+#~ msgid "Settlement Method No5"
+#~ msgstr "決済方法(5)"
+
+#~ msgid "Settlement Method No6"
+#~ msgstr "決済方法(6)"
+
+#~ msgid "Importing data from csv file"
+#~ msgstr "CSVファイルがインポートされました。"
+
+#~ msgid "Error:The data file is invalid."
+#~ msgstr "エラー：データファイルの読み込みができません。"
+
+#~ msgid "Data Importing and Exporting"
+#~ msgstr "エクスポート"
+
+#~ msgid "Export Customer data are available for download here. "
+#~ msgstr "こちらから顧客データをエクスポートできます。"
+
+#~ msgid "Download data as CustomerData.csv file."
+#~ msgstr "データはCSVファイル［CustomerData.csv］としてダウンロードされます。"
+
+#~ msgid ""
+#~ "If import customer data. Customer data can be imported via CSV as long as "
+#~ "it is in the correct format. </br> Format customer data as a spreadsheet "
+#~ "(Excel, etc) with the following 15 columns\n"
+#~ "\t\t<p> User id,Contact First name, Last name,Zip code,City/State/Pref "
+#~ "Country,Address ,tel,fax(option),mailaddress,password,<br>\n"
+#~ "\t\tShoping:name,Zip code,City/State/Pref Country/,Address,tel.</p>"
+#~ msgstr ""
+#~ "顧客情報データーをインポートする場合のCSVファイルの並び順は、　<br/>「登録"
+#~ "番号」「氏名」「ふりがな」「郵便番号」「都道府県」「市 住所」<br/>「電話番"
+#~ "号」「FAX番号」「メールアドレス」「パスワード」<br>「お届け先氏名」「お届"
+#~ "け先郵便番号」「お届け先都道府県」「お届け先市 住所」「お届け先電話番号」"
+#~ "の順です。"
+
+#~ msgid "Click Upload/Import and select your CustomerData.csv file "
+#~ msgstr ""
+#~ "顧客情報データーのインポートは下のフォームから登録します。（注意：データは"
+#~ "上書きとなりますので注意してください。）"
+
+#~ msgid "Import"
+#~ msgstr "インポート"
+
+#~ msgid "Customer data updated"
+#~ msgstr "顧客情報が更新されました。"
+
+#~ msgid "Customer data added"
+#~ msgstr "顧客情報が追加されました。"
+
+#~ msgid "Edit customer data"
+#~ msgstr "顧客情報編集"
+
+#~ msgid "Add New"
+#~ msgstr "新規追加"
+
+#~ msgid "Shopping Cart Customer Management"
+#~ msgstr "ショッピングカート顧客管理"
+
+#~ msgid "Customer"
+#~ msgstr "顧客管理"
+
+#~ msgid "Customer List"
+#~ msgstr "顧客一覧"
+
+#~ msgid "edit"
+#~ msgstr "編集"
+
+#~ msgid "If you are sure to delete, click the OK button."
+#~ msgstr "削除するには OK を、中止するには キャンセルをクリックしてください"
+
+#~ msgid "delete"
+#~ msgstr "削除"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Mail"
+#~ msgstr "メール"
+
+#~ msgid "DELETE: Removing customer data from your database"
+#~ msgstr "顧客データが削除されました。"
+
+#~ msgid "Entries per page"
+#~ msgstr "１ページの表示数"
+
+#~ msgid "Search results for &#8220;%s&#8221;"
+#~ msgstr "&#8220;%s&#8221;の検索結果"
+
+#~ msgid "Item information "
+#~ msgstr "商品の説明"
+
+#~ msgid "Export item data are available for download here."
+#~ msgstr ""
+#~ "こちらから商品データのみのエクスポートできます。（注：ページデータはエクス"
+#~ "ポートされません。）"
+
+#~ msgid "Download data as CartItemData.csv file."
+#~ msgstr "データはCSVファイル［CartItemData.csv］としてダウンロードされます。"
+
+#~ msgid ""
+#~ "Item data can be imported via CSV as long as it is in the correct format. "
+#~ "</br> Format item data as a spreadsheet (Excel, etc) with the following 6 "
+#~ "columns\n"
+#~ "\t\t<p>date,item number/id, item name,stock,price,postid</p>"
+#~ msgstr ""
+#~ "商品データーは、「登録日時」「商品番号」「商品名」「在庫数」「価格」「ペー"
+#~ "ジID」の順です。"
+
+#~ msgid "Click Upload/Import and select your CartItemData.csv file "
+#~ msgstr ""
+#~ "商品データーのインポートは下のフォームから登録します。（注意：データは上書"
+#~ "きとなりますので注意してください。）"
+
+#~ msgid "Export order data are available for download here. "
+#~ msgstr "こちらから受注データをエクスポートできます。"
+
+#~ msgid "Download data as OrderData.csv file."
+#~ msgstr "データはCSVファイル［OrderData.csv］としてダウンロードされます。"
+
+#~ msgid ""
+#~ "If import order data Order data can be imported via CSV as long as it is "
+#~ "in the correct format.</br> Format order data as a spreadsheet (Excel, "
+#~ "etc) with the following 20 columns\n"
+#~ "\t\t<p> date,customer id,first name,last name,zip code,address,tel,"
+#~ "emailaddress,<br>\n"
+#~ "\t\tname2,zip2,address2,tel2,payment,comment,orderdata,charge,postage,"
+#~ "commission,total,consumption tax</p>"
+#~ msgstr ""
+#~ "受注データーをインポートする場合のCSVファイルの並び順は、　<br>「購入日"
+#~ "時」「顧客ID」「名前」「ふりがな」「郵便番号」「住所」「電話番号」「メール"
+#~ "アドレス」<br>「お届け先氏名」「お届け先郵便番号」「お届け先市 住所」「お"
+#~ "届け先電話番号」「支払い方法」「コメント」<br>「購入商品情報」「手数料」"
+#~ "「送料」「その他」「購入金額」「消費税」の順です。"
+
+#~ msgid "Click Upload/Import and select your OrderData.csv file "
+#~ msgstr ""
+#~ "受注データーのインポートは下のフォームから登録します。（注意：データは上書"
+#~ "きとなりますので注意してください。）"
+
+#~ msgid "Order Information:"
+#~ msgstr "注文情報"
+
+#~ msgid "Order Number:"
+#~ msgstr "注文番号"
+
+#~ msgid "Order Time:"
+#~ msgstr "注文日時"
+
+#~ msgid "Payment Method:"
+#~ msgstr "支払い方法"
+
+#~ msgid "Commission Charges:"
+#~ msgstr "その他"
+
+#~ msgid "Comment Message:"
+#~ msgstr "コメント"
+
+#~ msgid "Order data updated"
+#~ msgstr "受注情報が更新されました。"
+
+#~ msgid "Count"
+#~ msgstr "数量"
+
+#~ msgid "Charge:"
+#~ msgstr "手数料"
+
+#~ msgid "Shopping Cart Order Management"
+#~ msgstr "ショッピングカート受注管理"
+
+#~ msgid "Order"
+#~ msgstr "受注管理"
+
+#~ msgid "Order List"
+#~ msgstr "受注一覧"
+
+#~ msgid "DELETE: Removing order data from your database"
+#~ msgstr "受注データが削除されました。"
+
+#~ msgid "Order history"
+#~ msgstr "購入履歴"
+
+#~ msgid "Member Login"
+#~ msgstr "ログイン"
+
+#~ msgid "history"
+#~ msgstr "購入履歴"
+
+#~ msgid ""
+#~ "Enter the e-mail address associated with your account, then click Submit "
+#~ "button."
+#~ msgstr ""
+#~ "登録いただいているE-Mailアドレス（ログインID）を入力して送信ボタンをクリッ"
+#~ "クしてください。"
+
+#~ msgid "We will send your login password."
+#~ msgstr "メールにてあなたのパスワードをお送りします。"
+
+#~ msgid "Submit"
+#~ msgstr "送信する"
+
+#~ msgid "We send the password to your email address."
+#~ msgstr "登録いただいているE-Mailアドレスにパスワードを送信いたしました。"
+
+#~ msgid "Your registration information has been corrected. "
+#~ msgstr "会員情報が登録されました。"
+
+#~ msgid ""
+#~ "If you hope to change the shipping address, please update your registered "
+#~ "address."
+#~ msgstr "お届け先アドレスを登録してください。"
+
+#~ msgid "(Example: 000-0000)"
+#~ msgstr "（例：000-0000）"
+
+#~ msgid "Unregister"
+#~ msgstr "登録解除"
+
+#~ msgid "back"
+#~ msgstr "戻る"
+
+#~ msgid "next"
+#~ msgstr "次へ"
+
+#~ msgid "data is empty"
+#~ msgstr "データが空です。"
+
+#~ msgid ""
+#~ "The details of your order will be displayed. Please click on the order "
+#~ "number."
+#~ msgstr "ご注文番号をクリックするとご注文内容の詳細が表示されます。"
+
+#~ msgid "Data retention period -"
+#~ msgstr "データ保存期間は"
+
+#~ msgid "years."
+#~ msgstr "年間です。"
+
+#~ msgid "Missing email address and password. Please correct and try again."
+#~ msgstr "メールアドレス、パスワードが登録されていません。"
+
+#~ msgid "Connection timed out. Please login and try again."
+#~ msgstr "タイムアウトしました。再ログインしてください。"
+
+#~ msgid "Registered users please log in here."
+#~ msgstr "会員登録されている方はこちらからログインできます。"
+
+#~ msgid "Log out"
+#~ msgstr "ログアウト"
+
+#~ msgid "Your registration information has been edited. "
+#~ msgstr "会員情報が編集されました。"
+
+#~ msgid "Register"
+#~ msgstr "登録"
+
+#~ msgid "If you are sure to unregister, click the OK button."
+#~ msgstr ""
+#~ "登録解除するには OK を、中止するには キャンセルをクリックしてください"
+
+#~ msgid "Welcome"
+#~ msgstr "ようこそ"
+
+#~ msgid "."
+#~ msgstr " 様"
+
+#~ msgid "MyPage login"
+#~ msgstr "会員 ログイン"
+
+#~ msgid "Check your order history."
+#~ msgstr "過去の購入履歴を確認することができます。"
+
+#~ msgid "Change your registration address."
+#~ msgstr "お客様の登録情報の変更・解除をすることができます。"
+
+#~ msgid "Change your shipping address."
+#~ msgstr "お届け先アドレスの登録ができます。"
+
+#~ msgid "Log out of My page."
+#~ msgstr "マイページからログアウトします。"
+
+#~ msgid "Find an address"
+#~ msgstr "住所検索"
+
+#~ msgid ":Road Template"
+#~ msgstr "テンプレートタグを読み込む"
+
+#~ msgid "Missing comments field. Please correct and try again."
+#~ msgstr "問い合わせ内容を入力してください。"
+
+#~ msgid "Error Address not found"
+#~ msgstr "該当する住所が見つかりません。"
+
+#~ msgid "Item Option"
+#~ msgstr "商品オプション"
+
+#~ msgid "Android Phone Theme"
+#~ msgstr "Android スマートフォンのテーマ"
+
+#~ msgid "iPhone Theme"
+#~ msgstr "iPhoneのテーマ"
+
+#~ msgid "iPad Theme"
+#~ msgstr "iPadのテーマ"
+
+#~ msgid "Mobile Theme Updated"
+#~ msgstr "モバイルの外観テーマが更新されました。"
+
+#~ msgid "Member Only rogin Setup"
+#~ msgstr "会員専用ショップサイト"
+
+#~ msgid "Cart Security Setup Updated"
+#~ msgstr "カートのセキュリティの設定が更新されました。"
+
+#~ msgid "Find an address "
+#~ msgstr "住所検索"
+
+#, fuzzy
+#~ msgid "Page Title"
+#~ msgstr "商品名"
+
+#~ msgid "ProductID"
+#~ msgstr "商品ID"
+
+#~ msgid "ProductName"
+#~ msgstr "商品名"
+
+#~ msgid "Data Backup"
+#~ msgstr "データバックアップ"
+
+#~ msgid "Data Backup (Importing and Exporting)"
+#~ msgstr "データバックアップ"
+
+#~ msgid "Download"
+#~ msgstr "ダウンロード"
+
+#~ msgid "Upload"
+#~ msgstr "アップロード"
+
+#~ msgid "Change Max Option items  "
+#~ msgstr "最大商品オプション数の変更"
+
+#~ msgid "Item Title / Page Title"
+#~ msgstr "商品名 ページタイトル"
+
+#~ msgid "Page ID / number"
+#~ msgstr "ページID・商品番号"
+
+#~ msgid "Product data updated"
+#~ msgstr "商品情報が更新されました。"
+
+#~ msgid "Product data added"
+#~ msgstr "商品情報が追加されました。"
+
+#~ msgid "Page ID or Product ID"
+#~ msgstr "関連するページIDもしくは任意の商品ID"
+
+#~ msgid ""
+#~ "A comma (,) is used as a separator between stock setup.(example: L=30 M=2 "
+#~ "30,2)"
+#~ msgstr ""
+#~ "商品オプションに合わせて在庫数を複数設定する場合、上のオプションに合わせて"
+#~ "半角数字でコンマをいれて設定してください。<br />例)サイズM＝30　サイズL＝"
+#~ "2 で設定する場合、30,2"
+
+#~ msgid ""
+#~ "A comma (,) is used as a separator between price setup.(example: L=200 "
+#~ "M=100 200,100)"
+#~ msgstr ""
+#~ "商品オプションに合わせて価格を複数設定する場合、上のオプションに合わせて半"
+#~ "角数字でコンマをいれて設定してください。<br />例)サイズM＝200円　サイズL＝"
+#~ "100円 で設定する場合、200,100"
+
+#~ msgid "Separate options with commas"
+#~ msgstr "オプションが複数ある場合はコンマで区切ってください"
+
+#~ msgid "Shopping Cart Item List Management"
+#~ msgstr "ショッピングカート商品管理"
+
+#~ msgid "DELETE: Removing product data from your database"
+#~ msgstr "受注データが削除されました。"
+
+#~ msgid "ItemInformation"
+#~ msgstr "商品詳細"
+
+#~ msgid "SpecialCharge"
+#~ msgstr "特別送料"
+
+#~ msgid "DeliveryCharge"
+#~ msgstr "特別送料"
+
+#~ msgid "Change the delivery charge"
+#~ msgstr ""
+#~ "*特別送料は複数の種類の商品を購入する場合は送料の値段の高い方が適用されま"
+#~ "す。"
+
+#, fuzzy
+#~ msgid "Other Options Title(1)"
+#~ msgstr "その他のボタンのオプションタイトル(2)"
+
+#~ msgid "Other Options Title(2)"
+#~ msgstr "その他のボタンのオプションタイトル(2)"
+
+#~ msgid "Cart Security"
+#~ msgstr "セキュリティ"
+
+#~ msgid "Mobile"
+#~ msgstr "モバイルの設定"
+
+#~ msgid "Button"
+#~ msgstr "カートボタン"
+
+#~ msgid "Other Items button"
+#~ msgstr "その他の商品カートボタン"
+
+#~ msgid "Other Option2"
+#~ msgstr "その他の項目(2)"
+
+#~ msgid "Other Option3"
+#~ msgstr "その他の項目(3) "
+
+#~ msgid "Memo"
+#~ msgstr "メモ"
+
+#~ msgid "Error:Product number is already used."
+#~ msgstr "エラー：商品番号は既に使用されています。"
+
+#~ msgid "Error:Goods number is already used."
+#~ msgstr "エラー：商品番号は既に使用されています。"
+
+#~ msgid "Mail Form"
+#~ msgstr "メールフォーム"
+
+#~ msgid "Members Preview"
+#~ msgstr "会員のみ表示"
+
+#~ msgid "Error:The above file name is invalid.(*OrderData.csv only)"
+#~ msgstr "ファイル名が違います。OrderData.csvファイルを指定してください。"
+
+#~ msgid "Error:The above file name is invalid.(*CustomerData.csv only)"
+#~ msgstr "ファイル名が違います。CustomerData.csvファイルを指定してください。"
+
+#~ msgid "Error:The above file name is invalid.(*CartCommodity.csv only)"
+#~ msgstr "ファイル名が違います。CustomerGoods.csvファイルを指定してください。"
+
+#~ msgid "Export Goods data are available for download here."
+#~ msgstr "こちらから商品データをダウンロードできます。"
+
+#~ msgid "Download data as GoodsData.csv file."
+#~ msgstr "データはCSVファイル［CustomerData.csv］としてダウンロードされます。"
+
+#~ msgid "Click Upload/Import and select your GoodsData.csv file"
+#~ msgstr ""
+#~ "商品データーの一括登録は下のフォームから登録します。（注意：データは上書き"
+#~ "となりますので注意してください。）"
+
+#~ msgid "Next"
+#~ msgstr "次の画面へ"
+
+#~ msgid "ProductNumber"
+#~ msgstr "商品番号"
+
+#~ msgid "Edit product data"
+#~ msgstr "商品編集"
+
+#~ msgid "Product"
+#~ msgstr "商品管理"
+
+#~ msgid "Product List"
+#~ msgstr "商品一覧"
+
+#, fuzzy
+#~ msgid "add to cart"
+#~ msgstr "カートに入れる"
+
+#~ msgid "We send the password."
+#~ msgstr "パスワードを送信いたしました。"
+
+#~ msgid "SSL"
+#~ msgstr "SSLの設定"
+
+#, fuzzy
+#~ msgid "MyPage"
+#~ msgstr "My Page ログイン"
+
+#~ msgid "SSL Cart Domain URL Setup"
+#~ msgstr "SSLカートURLの設定"
+
+#~ msgid "SSL Cart URL Updated"
+#~ msgstr "SSLカートURLの設定が更新されました。"
+
+#~ msgid "StockCount"
+#~ msgstr "在庫数"
+
+#~ msgid "Insert Image"
+#~ msgstr "在庫管理"
+
+#~ msgid "Number/ID"
+#~ msgstr "商品番号"
+
+#~ msgid "Other Options(3)"
+#~ msgstr "その他のボタンのオプション(3)"
+
+#~ msgid "USD"
+#~ msgstr "円"
+
+#~ msgid "City/State"
+#~ msgstr "市・町・村"
+
+#~ msgid "Country"
+#~ msgstr "国"
+
+#~ msgid "Forgot Password"
+#~ msgstr "パスワードを忘れた方"
+
+#~ msgid "PLEASE REVIEW YOUR ORDER"
+#~ msgstr "ショッピングカートの内容"
+
+#~ msgid "$"
+#~ msgstr "¥"
+
+#~ msgid "Pref"
+#~ msgstr "都道府県"
+
+#~ msgid "Total:$"
+#~ msgstr "合計：¥"
+
+#~ msgid "City/State Country"
+#~ msgstr "市・町　国"
+
+#~ msgid "First Time Shopper"
+#~ msgstr "初めてお買い物される方"
+
+#~ msgid "Non-member Shopping"
+#~ msgstr "会員登録をせずに購入"
+
+#~ msgid "FirstName"
+#~ msgstr "氏名"
+
+#~ msgid "LastName"
+#~ msgstr "かな"
+
+#~ msgid "PostalCode"
+#~ msgstr "郵便番号"
+
+#~ msgid "From:$"
+#~ msgstr "¥"
+
+#~ msgid "Dollars  "
+#~ msgstr "円(*半角数字で入力してください。)"
+
+#~ msgid "Goods data updated"
+#~ msgstr "商品情報が更新されました。"
+
+#~ msgid "Dollars "
+#~ msgstr "円　以上"
+
+#~ msgid "Dollars"
+#~ msgstr "円"
+
+#~ msgid "Goods"
+#~ msgstr "商品管理"
+
+#~ msgid "Goods List"
+#~ msgstr "商品一覧"
+
+#~ msgid "DELETE: Removing goods data from your database"
+#~ msgstr "商品データが削除されました。"
+
+#~ msgid "Shopping Cart Contents"
+#~ msgstr "ショッピングカートの内容"
+
+#~ msgid ""
+#~ "Click the \"recalculate\" button. With each change your subtotal will be "
+#~ "automatically recalculated."
+#~ msgstr ""
+#~ "注文数を変更する場合は、数量項目を修正して再計算ボタンで変更してください。"
+
+#~ msgid "recalculation"
+#~ msgstr "再計算"
+
+#~ msgid "empty"
+#~ msgstr "空にする"
+
+#~ msgid "order"
+#~ msgstr "注文する"
+
+#~ msgid "Place an order"
+#~ msgstr "注文する"
+
+#~ msgid "input form"
+#~ msgstr "フォームを表示する。"
+
+#~ msgid "CustomerNumber"
+#~ msgstr "顧客番号"
+
+#~ msgid "CustomerName"
+#~ msgstr "顧客名"
+
+#~ msgid "City"
+#~ msgstr "市・町・村"
+
+#~ msgid ""
+#~ "Import customer data.customer data can be imported via CSV as long as it "
+#~ "is in the correct format.</br> Format customer data as a spreadsheet "
+#~ "(Excel, etc) with the following 16 columns\n"
+#~ "\t\t<p> User id,Contact First name, Last name,Zip code,Pref(*japanese "
+#~ "only),Address City/State Country,tel,fax(option),mailaddress,password,"
+#~ "<br>\n"
+#~ "\t\tShoping:First name, Last name,Zip code,Pref,Address City/State "
+#~ "Country,tel.</p>"
+#~ msgstr ""
+#~ "顧客情報データーは、「登録番号」「氏名」「ふりがな」「郵便番号」「都道府"
+#~ "県」「市 住所」「電話番号」「FAX番号」「メールアドレス」「パスワード」"
+#~ "<br>「お届け先氏名」「お届け先郵便番号」「お届け先都道府県」「お届け先市 "
+#~ "住所」「お届け先電話番号」の順です。"
+
+#~ msgid "Edit"
+#~ msgstr "編集"
+
+#~ msgid "Receiver's address"
+#~ msgstr "発送先アドレス"
+
+#~ msgid "Customer Management"
+#~ msgstr "顧客管理"
+
+#~ msgid "CustomerManagement"
+#~ msgstr "顧客管理"
+
+#~ msgid "CustomerList"
+#~ msgstr "顧客一覧"
+
+#~ msgid "Click Delete All at the bottom and click OK if prompted."
+#~ msgstr "一括削除する場合はOKをクリックしてください。"
+
+#, fuzzy
+#~ msgid "Please click on OK to delete"
+#~ msgstr "削除する場合はOKをクリックしてください。"
+
+#~ msgid "CommodityStock"
+#~ msgstr "在庫"
+
+#~ msgid "Your Ad here"
+#~ msgstr "ここに表示するよ"

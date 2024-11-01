@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+
+
+/*データバックアップ
+---------------------------------------------------- */
+ol#import{
+	padding:0;
+	margin: 20px 0 20px 50px;
+}
+
+.register{
+	padding:0;
+	margin: 10px 0 30px 0px;
+}
+
+p.import{	
+	padding:0;
+	margin: 20px 0 20px 30px;
+}

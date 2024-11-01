@@ -1,0 +1,99 @@
+@charset "utf-8";
+
+h2#order{
+	background-image: url(../images/icon_order32.png);
+	background-repeat: no-repeat;
+	background-position: 0px 12px;
+	padding:15px 0px 0 40px;
+	margin:0;
+}
+
+
+/*受注詳細　表　金額
+---------------------------------------------------- */
+#orderprice{
+	width: 100%;
+	margin: 0;
+	padding:0;
+	border-spacing:0;
+	border-collapse:collapse;
+	font-size: 12px;
+	clear: both;
+}
+#orderprice tr td{	
+	margin: 0;
+	padding:5px;
+	letter-spacing: 0.1em;
+	font-size: 12px;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	}
+#orderprice th{
+	margin: 0;
+	padding:5px;
+	color: #666;
+	text-align:left;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	}
+#orderprice *{word-wrap:break-word;}
+#orderprice input{
+width:100%;
+}
+
+#orderprice .orderpriceth01{
+	width: 70px;
+}
+#orderprice .orderpriceth02{
+	width: 80px;
+}
+#orderprice .orderpriceth03{
+	width: 50px;
+}
+
+#orderprice .orderpriceth04{
+	text-align: right;
+}
+
+
+
+.orderpriceitem01{
+	width: 70px;
+}
+.orderpriceitem02{
+	width: 80px;
+}
+.orderpriceitem03{
+	width: 50px;
+}
+
+#orderprice input.price{
+	text-align: right;
+}
+
+
+/*受注詳細　その他
+---------------------------------------------------- */
+#send{
+	width: 100%;
+	margin: 0;
+	padding:0px;
+	border-spacing:0;
+	border-collapse:collapse;
+	font-size: 12px;
+	clear: both;
+}
+table#send tr td{	
+	margin: 0;
+	padding:5px;
+	letter-spacing: 0.1em;
+	font-size: 12px;
+}
+table#send th{
+	margin: 0;
+	padding:5px;
+	width: 150px;
+	color: #666;
+	text-align:left;
+}
+

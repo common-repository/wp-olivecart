@@ -1,0 +1,5 @@
+/* WP-OliveCart Order-CSS
+---------------------------------------------------- */
+@import url(pc-order.css) screen and (min-width: 769px);
+@import url(tablet-order.css) screen and (max-width: 768px);
+@import url(smartphone-order.css) screen and (max-width: 640px);
